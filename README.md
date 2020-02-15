@@ -1,3 +1,5 @@
+# DISCONTINUE [15/02/2020]
+
 ## Instagram Private Tools x toolsig v2.2 [Update on 07/01/2020]
 * Instagram (also called IG or Insta) is a photo and video sharing application that allows users to take photos, take videos, apply digital filters and share them to various social networking services, including Instagram's own.
 * Instagram Tools Based on NodeJS (This script or code was created by ccocot - Aldi Nugraha).
