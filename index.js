@@ -95,8 +95,8 @@ const main = async () => {
                 break;
                 
             case "❆ F-n-L with Followers Target":
-                const fnlauto = require('./tools/fftauto2.js');
-                await unfollnotfollback();
+                const fftauto2 = require('./tools/fftauto2.js');
+                await fftauto();
                 break;
 
             case "❆ F-L-C with Followers Target":
