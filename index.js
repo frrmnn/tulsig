@@ -35,6 +35,7 @@ const questionTools = [{
         "❆ Unfollow Not Followback",
         "❆ L-C with Followers Target",
         "❆ F-L with Followers Target",
+        "❆ F-n-L with Followers Target",
         "❆ F-L-C with Followers Target",
         "❆ F-L-C with Media Target",
         "❆ F-L-C with Hashtag Target",
@@ -90,6 +91,11 @@ const main = async () => {
 
             case "❆ F-L with Followers Target":
                 const fnlauto = require('./tools/fnlauto.js');
+                await unfollnotfollback();
+                break;
+                
+            case "❆ F-n-L with Followers Target":
+                const fnlauto = require('./tools/fftauto2.js');
                 await unfollnotfollback();
                 break;
 
